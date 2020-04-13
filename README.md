@@ -72,6 +72,11 @@ Searchbar semi-transparent background:
 https://github.com/datguypiko/Firefox-Mod/blob/master/userChrome.css
 ```
 
+To hide when a page is loaded from an extension:
+```
+https://discourse.mozilla.org/t/make-addressbar-text-extension-name-of-the-extension-shorter-or-hide/28026/3
+```
+
 I used this comment next to the code I modified:
 ```css
 /* Own modification */
