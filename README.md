@@ -8,9 +8,7 @@ This theme requires the Firefox addon [**Sidebery**](https://github.com/mbnuqw/s
 <br>
 [![https://addons.mozilla.org/en-US/firefox/addon/sidebery/](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_2.png)](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)
 
-Additionally I also use the addon **Simple New Tab Button**
-<br>
-[![https://addons.mozilla.org/en-US/firefox/addon/simple-new-tab-button/](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_2.png)](https://addons.mozilla.org/en-US/firefox/addon/simple-new-tab-button/)
+Additionally I also use the addons [**Simple New Tab button**](https://addons.mozilla.org/en-US/firefox/addon/simple-new-tab-button/) and [**Simple Close Tab button**](https://addons.mozilla.org/en-US/firefox/addon/simple-close-tab-button/)
 
 ![alt text](screenshot_1.png)
 ![alt text](screenshot_2.png)
