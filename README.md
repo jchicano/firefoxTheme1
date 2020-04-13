@@ -5,10 +5,12 @@
 <br>
 
 This theme requires the Firefox addon [**Sidebery**](https://github.com/mbnuqw/sidebery)
+<br>
 
 [![https://addons.mozilla.org/en-US/firefox/addon/sidebery/](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_2.png)](https://addons.mozilla.org/en-US/firefox/addon/sidebery/)
 
 Additionally I also use the addon **Simple New Tab Button**
+<br>
 [![https://addons.mozilla.org/en-US/firefox/addon/simple-new-tab-button/](https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_2.png)](https://addons.mozilla.org/en-US/firefox/addon/simple-new-tab-button/)
 
 ![alt text](screenshot_1.png)
